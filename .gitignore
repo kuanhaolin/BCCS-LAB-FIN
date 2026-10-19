@@ -1,0 +1,13 @@
+# Local credentials, personal form data, and generated files.
+session*.json
+form.json
+p@ssw0rd.json
+input*.json
+!input*_example.json
+prints/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.png

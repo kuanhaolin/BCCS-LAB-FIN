@@ -1,0 +1,12 @@
+{
+  "abstract": "範例差旅費，請改為實際用途。",
+  "budgetNo": "TEST0001",
+  "budgetCode": "300",
+  "budgetAmount": "100",
+  "product": "範例品名",
+  "productAmount": "100",
+  "advancePaid": true,
+  "invoiceNo": "",
+  "invoiceDate": "1150101",
+  "payeeAmount": "100"
+}

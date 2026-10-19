@@ -1,0 +1,15 @@
+{
+  "startDate": "1150101",
+  "endDate": "1150101",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "destinationDistrict": "407",
+  "includeHoliday": "N",
+  "location": "範例地點",
+  "reason": "範例公差事由，請改為實際內容。",
+  "proofFile": [
+    {
+      "filename": "example-proof.pdf"
+    }
+  ]
+}

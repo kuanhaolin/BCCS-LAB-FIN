@@ -1,0 +1,19 @@
+{
+  "pay_dept_no": "T000",
+  "plan_sno": "TEST0001",
+  "remarks": "範例資料，請勿送出",
+  "is_techfund": false,
+  "title": "教授",
+  "name": "範例姓名",
+  "staff_personal_no": "",
+  "list_date": "11501",
+  "ought_money": "100",
+  "health2_money": "0",
+  "actual_money": "100",
+  "postoffice_no1": "",
+  "postoffice_no2": "",
+  "address": "",
+  "memo": "範例工作紀要，請改為實際內容。",
+  "isAccumulate": false,
+  "calhealth": "I"
+}

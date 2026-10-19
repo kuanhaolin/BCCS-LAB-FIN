@@ -1,0 +1,3 @@
+#!/bin/bash
+echo off
+python3 ./ncu_form_app.py
